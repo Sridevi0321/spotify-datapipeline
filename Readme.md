@@ -1,0 +1,2 @@
+A Hands-on data engineering project where I learned how to collect, clean, transform, and store data for meaningful analysis. This project helped me understand the core fundamentals of building an end-to-end data pipeline from scratch.
+
